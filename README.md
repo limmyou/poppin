@@ -43,15 +43,18 @@
 ## 1. 프로젝트 개요
   ### 프로젝트 시나리오
 <details><summary>프로젝트 시나리오</summary><br>
+  
+<div align="center">팝업스토어 키워드 검색량 추이</div>
+<img width="1100" alt="팝업스토어 검색량 추이" src="https://github.com/limmyou/poppin/assets/145823967/8cb61201-1cd6-4915-a5ca-776ae2f7d681">
 
 [현황]
->~~최근 직접 경험의 가치가 부각되면서 팝업스토어가 새로운 마케팅 트렌드로 주목받고 있다. 이에 따라 소비자들이 팝업 스토어를 찾는 수요가 증가하고 있다.~~
+>~~최근 팝업스토어가 새로운 마케팅 트렌드로 주목받고 있다. 이에 따라 고객들이 팝업 스토어를 찾는 수요가 증가하고 있다.~~
 
 [한계]
->~~이 정보를 정리하고 제공하는 플랫폼은 아직 부족하여, 소비자들은 원하는 팝업 스토어를 찾기 위해 다수의 웹사이트나 SNS를 찾아야 하는 번거로움을 겪고 있다. 더 나아가, 기업들은 이러한 상황에서 주로 뉴스나 소규모 SNS 마케팅 채널에 의존하여 팝업스토어를 홍보하고 있는데 불편함을 겪고 있다.~~
+>~~고객(개인)은 원하는 팝업 스토어를 찾기 위해 직접 웹사이트나 SNS를 탐색해야 한다. 또한, 고객(기업)은 뉴스나 소규모 SNS 마케팅 채널에 의존하여 팝업스토어를 홍보해야 한다.~~
 
 [솔루션]
->~~팝업 스토어에 대한 종합적인 정보를 제공하고 추천하는 모바일 웹 서비스를 개발할 것으로 기획하였다. 이 플랫폼은 사용자들이 원하는 팝업 스토어를 손쉽게 찾을 수 있도록 지원하며, 개인화된 추천 시스템을 통해 사용자들의 취향과 관심사에 맞는 새로운 팝업 스토어를 발견할 수 있도록 한다.~~  
+>~~팝업 스토어에 대한 종합적인 정보를 제공하고 추천하는 모바일 웹 서비스 구축함으로써, 고객들이 원하는 팝업 스토어를 손쉽게 찾을 수 있도록 지원하며, 개인화된 추천 시스템을 통해 고객들의 취향과 관심사에 맞는 새로운 팝업 스토어를 발견할 수 있도록 한다.~~  
 
 </details>
 
@@ -94,7 +97,9 @@ URL 공유
   
 1. Notion 문서 [바로가기](https://www.notion.so/bad6778516b340408f10a3f7def106a8?pvs=4)
 ![노션](https://github.com/kim-edwin/RepoHeart/assets/145823967/f1d5fa4b-fb96-41c5-8584-a5e47983c907)
-2. SRS 문서 [바로가기](https://www.notion.so/bad6778516b340408f10a3f7def106a8?pvs=4)
+
+2. WBS [바로가기](https://docs.google.com/spreadsheets/d/1B9ElpTqgXPPfNXbQ8e2fhkwKi8PkeVj9/edit#gid=1081654881)
+<img width="755" alt="WBS" src="https://github.com/limmyou/poppin/assets/145823967/fb2bdbd4-bb63-4102-b4ce-1920d1e76e87">
 
 </details>
  
@@ -104,8 +109,8 @@ URL 공유
 
 :raising_hand:**우리 서비스를 이용할 유저들**
 ```
-연인과의 데이트 또는 친구들과 시간을 보낼 곳을 찾는 유저
-모바일 접속 유저
+1. 연인과의 데이트 또는 친구들과 시간을 보낼 곳을 찾는 유저
+2. 모바일 접속 유저
 ```
 1) 장소와 시간이 결정되지 않은 유저 → :bulb:**현재 오픈 중인 팝업스토어를 탐색할 수 있는 기능** 필요
   → 카테고리제이션을 통한 목록 탐색,  현재 실시간 인기 많은 팝업스토어 노출, 가장 최신 팝업스토어 노출
@@ -120,7 +125,7 @@ URL 공유
 :heavy_exclamation_mark:**추가적으로, 유저들이 우리사이트에서 발견하고 좋다고 느낄만한 내용**
 
 1. (상세페이지) 현재 조회 중인 팝업스토어와 유사한 팝업스토어 추천받기
-2. 위시리스
+2. 위시리스트
   
 </details>
 
@@ -157,8 +162,9 @@ URL 공유
 </details>
 
   ### UI
-<details><summary>UI</summary>
+<details><summary>UI</summary><<br>
 
+[:pencil2:UI 프로토타입 확인하기](https://repeated-sidewalk-fe0.notion.site/5669337e534e4bf3992bddacb22ae52e)
 ![팝핀 UI1](https://github.com/limmyou/poppin/assets/145823967/0d4d81dc-6c6c-4d3d-a4bd-890a1db157a5)
 ![팝핀 UI2](https://github.com/limmyou/poppin/assets/145823967/427b6756-8f5f-4b4c-b821-75d944179a09)
 
@@ -168,6 +174,7 @@ URL 공유
 <details><summary>API</summary><br>
 
 API 정의서 [바로가기](https://repeated-sidewalk-fe0.notion.site/API-4deebee8804c43caa68b1657e631126e)
+![API정의서](https://github.com/limmyou/poppin/assets/145823967/3247f7e8-37ff-4a97-b76b-721ec34028f7)
 
 </details>
 
