@@ -18,7 +18,7 @@
 
 - [1. 프로젝트 개요](#1.-프로젝트-개요)
   - [프로젝트 소개](#프로젝트-소개)
-  - [팀원 소개](#팀원-소개)
+  - [역할 분담](#역할-분담)
   - [기획 과정](#기획-과정)
  
 - [2. 요구사항 정의](#2.-요구사항-정의)
@@ -40,18 +40,105 @@
 
 ## 1. 프로젝트 개요
   ### 프로젝트 소개
-  ### 팀원 소개
+<details><summary>프로젝트 소개</summary>
+
+</details>
+
+  ### 역할 분담
+<details><summary>역할 분담</summary>
+  
+:crown:김현우<br>
+:smiley_cat:강희림<br>
+:hatching_chick:장경민<br>
+:rabbit:이윤아<br>
+:pizza:최민환
+
+</details>
+
   ### 기획 과정
+  <details><summary>기획 과정</summary>
+
+</details>
+
 ## 2. 요구사항 정의
   ### 시나리오
+<details><summary>시나리오</summary>
+
+시나리오
+  
+</details>
+
   ### 주요 기능
+<details><summary>주요 기능</summary>
+
+주요기능
+  
+</details>
+
   ### 요구사항 정의서
+<details><summary>요구사항 정의서</summary>
+
+요구사항 정의서
+
+</details>
+
 ## 3. 개발
   ### 기술스택
+<details><summary>기술스택</summary>
+
+기술스택
+
+</details>
+
   ### API
+<details><summary>API</summary>
+
+API
+
+</details>
+
   ### 배포
+<details><summary>배포</summary>
+
+배포
+
+</details>
+
 ## 4. 테스트
   ### UI
+<details><summary>UI</summary>
+
+UI
+
+</details>
+
 ## 5. 회고
  ### 한계점
+<details><summary>한계점</summary>
+
+:crown:김현우 : 
+
+:smiley_cat:강희림 : 
+
+:hatching_chick:장경민 : 
+
+:rabbit:이윤아 : 
+
+:pizza:최민환 : 
+
+</details>
+
  ### 느낀점
+<details><summary>느낀점</summary>
+
+:crown:김현우 : 
+
+:smiley_cat:강희림 : 
+
+:hatching_chick:장경민 : 
+
+:rabbit:이윤아 : 
+
+:pizza:최민환 : 
+
+</details>
