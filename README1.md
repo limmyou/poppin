@@ -3,11 +3,11 @@
 
 :family: **TEAM**
 ---
-[:crown:김현우](https://github.com/kim-edwin)
-[:smiley_cat:강희림](https://github.com/limmyou) 
-[:hatching_chick:장경민](https://github.com/wkdrudals)
-[:rabbit:이윤아](https://github.com/Hwannni)
-[:pizza:최민환](https://github.com/wkdrudals)
+|[:crown:김현우](https://github.com/kim-edwin)|[:smiley_cat:강희림](https://github.com/limmyou) |[:hatching_chick:장경민](https://github.com/wkdrudals)|[:rabbit:이윤아](https://github.com/YoooonaLee)|[:pizza:최민환](https://github.com/Hwannni)|
+|:---:|:---:|:---:|:---:|:---:|
+|![남자미모티콘](https://github.com/limmyou/poppin/assets/145823967/de192276-80e5-43e6-962e-25f906ad28d6)|![여자미모티콘](https://github.com/limmyou/poppin/assets/145823967/cb38a500-5672-40cc-a331-e518697b66aa)|![여자미모티콘](https://github.com/limmyou/poppin/assets/145823967/cb38a500-5672-40cc-a331-e518697b66aa)|![여자미모티콘](https://github.com/limmyou/poppin/assets/145823967/cb38a500-5672-40cc-a331-e518697b66aa)|![남자미모티콘](https://github.com/limmyou/poppin/assets/145823967/de192276-80e5-43e6-962e-25f906ad28d6)|
+|`배포`, `Front-end`, `Back-end`|`Data Cleansing`|`Back-end`|`Back-end`|`Back-end`|
+|`Render`, `React`, `Django`, `AWS`|`MariaDB`|`Airflow`|` `|` `|
 
 **:calendar: 프로젝트 기간**
 ---
