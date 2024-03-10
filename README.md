@@ -119,7 +119,8 @@ API
   ### UI
 <details><summary>UI</summary>
 
-UI
+![팝핀 UI1](https://github.com/limmyou/poppin/assets/145823967/0d4d81dc-6c6c-4d3d-a4bd-890a1db157a5)
+![팝핀 UI2](https://github.com/limmyou/poppin/assets/145823967/427b6756-8f5f-4b4c-b821-75d944179a09)
 
 </details>
 
