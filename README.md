@@ -34,13 +34,10 @@
     
 - [3. 개발](#3.-개발)
   - [기술스택](#기술스택)
-  - [API](#api)
-  - [배포](#배포)
-
-- [4. 테스트](#4.-테스트)
   - [UI](#ui)
+  - [API](#api)
 
-- [5. 회고](#5.-회고)
+- [4. 회고](#4.-회고)
   - [한계점](#한계점)
   - [느낀점](#느낀점)
 
@@ -101,21 +98,6 @@
 
 </details>
 
-  ### API
-<details><summary>API</summary>
-
-API
-
-</details>
-
-  ### 배포
-<details><summary>배포</summary>
-
-배포
-
-</details>
-
-## 4. 테스트
   ### UI
 <details><summary>UI</summary>
 
@@ -124,7 +106,14 @@ API
 
 </details>
 
-## 5. 회고
+  ### API
+<details><summary>API</summary>
+
+API
+
+</details>
+
+## 4. 회고
  ### 한계점
 <details><summary>한계점</summary>
 
